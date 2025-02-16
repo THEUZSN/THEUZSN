@@ -21,4 +21,6 @@ Sou estudante de desenvolvimento de sistemas da ETEC
 <br/>
 <br/>
 
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=THEUZSN&layout=compact&theme=dark)
+![THEUZSN's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=THEUZSN&theme=dracula&show_icons=true&hide_border=false&layout=compact)
+<br/>
+![THEUZSN's Stats](https://github-readme-stats.vercel.app/api?username=THEUZSN&theme=dracula&show_icons=true&hide_border=false&count_private=true)
