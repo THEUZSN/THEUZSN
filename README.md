@@ -13,27 +13,26 @@
 </p>
 
 ## GitHub Stats
-![Serra's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=THEUZSN&theme=dracula&show_icons=true&hide_border=false&layout=compact)
-<br/>
-![Serra's Stats](https://github-readme-stats.vercel.app/api?username=THEUZSN&theme=dracula&show_icons=true&hide_border=false&count_private=true)
-
+<p> 
+  <img src="https://github-readme-stats.vercel.app/api?username=THEUZSN&theme=midnight-purple&show_icons=true&hide_border=false&count_private=true" height="200"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=THEUZSN&theme=midnight-purple&show_icons=true&hide_border=false&layout=compact" height="200" />
+</p>
 💻 Estudando:
-- **JavaScript** | Desenvolvimento Web
-- **C#** | Programação Geral e Desenvolvimento de Jogos
-- **HTML e CSS** | Estrutura e Estilo para Web
-- **PHP** | Backend para Projetos Web
+- <b>JavaScript</b> | Desenvolvimento Web<br/>
+- <b>C#</b> | Programação Geral e Desenvolvimento de Jogos<br/>
+- <b>HTML e CSS</b> | Estrutura e Estilo para Web<br/>
+- <b>PHP</b>  | Backend para Projetos Web<br/><br/>
 
-🎮 Interessado em:
-- Desenvolvimento de Jogos (usando **Godot Engine**)
-- Projetos no Console
+🎮 Interessado em: 
+- <b>Desenvolvimento de Jogos</b> (usando **Godot Engine**)<br/><br/>
 
 🔭 Explorando:
-- **.NET MAUI**
-- **C#** (Avançando nas habilidades)
-- **PHP** (Para desenvolvimento backend)
+- <b>.NET MAUI</b> <br/>
+- <b>C#</b> (Avançando nas habilidades)<br/>
+- <b>PHP</b> (Para desenvolvimento backend)<br/><br/>
 
-🎯 Objetivo:
-- Me tornar um desenvolvedor completo e um dia alcançar a **independência financeira**.
+🎯 Objetivo: 
+- Me tornar um desenvolvedor completo e um dia alcançar a **independência financeira**.<br/><br/>
 
 🌐 Conecte-se comigo:
 - [E-mail](mailto:ggmat304@gmail.com)
