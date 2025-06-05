@@ -4,7 +4,7 @@
 
 ## Skills
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,nodejs,react,cs,php,mysql,bash" />
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,nodejs,react,cs,php,mysql,bash,git" />
 </p>
 
 ## Sistemas Operacionais
